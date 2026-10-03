@@ -1,0 +1,11 @@
+backend/.venv/
+backend/data/
+models/
+SurgWound/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.DS_Store
+*.safetensors
+.env

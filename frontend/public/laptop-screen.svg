@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900">
+  <rect width="1440" height="900" fill="#f6f7f9"/>
+  <text x="72" y="120" fill="#1c2430" font-size="54" font-family="sans-serif" font-weight="700">Watch the wound, then the score.</text>
+  <text x="72" y="180" fill="#5c6778" font-size="24" font-family="sans-serif">A photograph, a risk band, and a plain-language explanation.</text>
+  <rect x="72" y="230" width="260" height="56" rx="28" fill="#111"/>
+  <text x="108" y="265" fill="#fff" font-size="20" font-family="sans-serif">Start assessment</text>
+  <rect x="352" y="230" width="200" height="56" rx="28" fill="#fff" stroke="#e4e7ee"/>
+  <text x="396" y="265" fill="#1c2430" font-size="20" font-family="sans-serif">View trend</text>
+  <rect x="72" y="330" width="820" height="500" rx="24" fill="#fff" stroke="#eceff3"/>
+  <text x="112" y="410" fill="#1c2430" font-size="40" font-family="sans-serif" font-weight="700">Current risk</text>
+  <text x="112" y="480" fill="#5c6778" font-size="28" font-family="sans-serif">MODERATE · 52.3%</text>
+  <text x="112" y="560" fill="#5c6778" font-size="22" font-family="sans-serif">This does not diagnose infection.</text>
+  <text x="112" y="640" fill="#5c6778" font-size="22" font-family="sans-serif">The chart uses assessment dates.</text>
+  <rect x="930" y="330" width="440" height="500" rx="24" fill="#fff" stroke="#eceff3"/>
+  <text x="970" y="410" fill="#1c2430" font-size="32" font-family="sans-serif" font-weight="700">On this screen</text>
+  <text x="970" y="490" fill="#5c6778" font-size="22" font-family="sans-serif">Score from the photograph</text>
+  <text x="970" y="550" fill="#5c6778" font-size="22" font-family="sans-serif">Region that influenced it</text>
+  <text x="970" y="610" fill="#5c6778" font-size="22" font-family="sans-serif">Explanation in plain language</text>
+</svg>
